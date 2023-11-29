@@ -1,0 +1,7 @@
+2
+	H2O	Oil	Polymer
+H2O	1	-1	0
+Oil	-1	1	-1
+	H2O	Oil	Polymer
+H2O	0.99	-1	0.01
+Oil	-1	1	-1

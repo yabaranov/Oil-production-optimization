@@ -1,0 +1,28 @@
+seconds     count          average     operation
+--------------------------------------------------
+0.02414     38             0.00064     Alignment BuildMatrix
+0.00129     38             0.00003     Alignment BuildRightPart
+0.01600     1              0.01600     Alignment Matrix Analysis
+0.18050     38             0.00475     Alignment Matrix Factorize
+0.06675     38             0.00176     Alignment Matrix Solve
+2.75579     1              2.75579     All time
+0.44930     34             0.01321     Calc_Filtration
+0.05208     34             0.00153     Chemistry
+0.37244     34             0.01095     Filtr_step
+0.00004     34             0.00000     Find_dt
+0.32485     34             0.00955     Flow alignment
+0.38274     34             0.01126     Flow mix
+0.03185     68             0.00047     Iteration Prepare
+0.30226     34             0.00889     Matrix
+0.19409     35             0.00555     Output
+0.19028     34             0.00560     Output_dt_print
+0.01285     1              0.01285     Pressure Matrix Analysis
+0.37084     34             0.01091     Pressure Matrix Factorize
+0.03874     34             0.00114     Pressure Prepare
+0.00007     34             0.00000     Pressure Restriction
+0.83475     34             0.02455     Pressure task
+0.03531     1              0.03531     ReadData
+0.00009     34             0.00000     RightPart
+0.03059     34             0.00090     Solve
+0.00316     238            0.00001     Wells Prepare
+0.25894     1              0.25894     prepare

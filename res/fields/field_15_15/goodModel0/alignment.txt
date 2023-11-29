@@ -1,0 +1,833 @@
+0, it = 1.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.2e-08
+  b (1.0e+11, 4)  
+  AL  all/n=1.5e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=3.9e-09
+  b (1.0e+11, 18)  
+  AL  all/n=1.4e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.5e-09
+
+  sign_change (9, 0)  
+1, it = 2.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=4.6e-04  ||fl||=1.0e-03  max=1.1e-08
+  b (1.0e+11, 2)  
+  AL  all/n=2.2e-10  ||dq||=4.6e-04  ||fl||=1.0e-03  max=8.4e-09
+  b (1.0e+12, 10)  
+  AL  all/n=2.1e-10  ||dq||=4.6e-04  ||fl||=1.0e-03  max=2.3e-09
+
+  sign_change (8, 0)  
+2, it = 3.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=4.4e-04  ||fl||=1.0e-03  max=2.8e-09
+
+  sign_change (10, 0)  
+3, it = 4.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.6e-09
+
+  sign_change (7, 0)  
+4, it = 5.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.3e-09
+
+  sign_change (4, 0)  
+5, it = 6.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.3e-09
+
+  sign_change (5, 0)  
+6, it = 7.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.3e-09
+
+  sign_change (7, 0)  
+7, it = 8.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.3e-09
+
+  sign_change (8, 0)  
+8, it = 9.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.2e-09
+
+  sign_change (5, 0)  
+9, it = 10.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.2e-09
+
+  sign_change (7, 0)  
+10, it = 11.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.2e-09
+
+  sign_change (9, 0)  
+  BAD_sign_change (2,1.9e-02, 0)  
+11, it = 12.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.2e-09
+
+  sign_change (9, 0)  
+  BAD_sign_change (2,2.4e-02, 0)  
+12, it = 13.  align_refactorize = 1(1)
+  AL  all/n=2.3e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.2e-09
+
+  sign_change (8, 0)  
+  BAD_sign_change (3,1.4e-02, 0)  
+13, it = 14.  align_refactorize = 1(1)
+  AL  all/n=2.3e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.2e-09
+
+  sign_change (10, 0)  
+  BAD_sign_change (2,1.6e-02, 0)  
+14, it = 15.  align_refactorize = 1(1)
+  AL  all/n=2.4e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.4e-09
+
+  sign_change (10, 0)  
+  BAD_sign_change (2,1.8e-02, 0)  
+15, it = 16.  align_refactorize = 1(1)
+  AL  all/n=2.5e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.4e-09
+
+  sign_change (8, 0)  
+  BAD_sign_change (2,2.0e-02, 0)  
+16, it = 17.  align_refactorize = 1(1)
+  AL  all/n=2.5e-10  ||dq||=4.3e-04  ||fl||=1.0e-03  max=2.5e-09
+
+  sign_change (8, 0)  
+  BAD_sign_change (3,2.3e-02, 0)  
+17, it = 18.  align_refactorize = 1(1)
+  AL  all/n=2.7e-10  ||dq||=4.4e-04  ||fl||=1.0e-03  max=2.9e-09
+
+  sign_change (14, 0)  
+  BAD_sign_change (3,2.8e-02, 0)  
+18, it = 19.  align_refactorize = 1(1)
+  AL  all/n=3.2e-10  ||dq||=4.4e-04  ||fl||=1.0e-03  max=3.7e-09
+
+  sign_change (15, 0)  
+  BAD_sign_change (4,3.5e-02, 0)  
+19, it = 20.  align_refactorize = 1(1)
+  AL  all/n=3.6e-10  ||dq||=4.5e-04  ||fl||=1.0e-03  max=6.1e-09
+
+  sign_change (15, 0)  
+  BAD_sign_change (2,4.1e-02, 0)  
+20, it = 21.  align_refactorize = 1(1)
+  AL  all/n=2.4e-10  ||dq||=4.5e-04  ||fl||=1.1e-03  max=4.8e-09
+
+  sign_change (18, 0)  
+  BAD_sign_change (5,1.6e-01, 0)  
+21, it = 22.  align_refactorize = 1(1)
+  AL  all/n=1.5e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=1.9e-09
+
+  sign_change (9, 0)  
+  BAD_sign_change (2,1.2e-01, 0)  
+22, it = 23.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.7e-04  ||fl||=1.2e-03  max=1.4e-09
+
+  sign_change (7, 0)  
+  BAD_sign_change (2,9.2e-02, 0)  
+23, it = 24.  align_refactorize = 1(1)
+  AL  all/n=9.7e-11  ||dq||=3.8e-04  ||fl||=1.2e-03  max=1.4e-09
+
+  sign_change (9, 0)  
+  BAD_sign_change (2,7.1e-02, 0)  
+24, it = 25.  align_refactorize = 1(1)
+  AL  all/n=8.7e-11  ||dq||=3.9e-04  ||fl||=1.2e-03  max=1.4e-09
+
+  sign_change (12, 0)  
+  BAD_sign_change (3,5.4e-02, 0)  
+25, it = 26.  align_refactorize = 1(1)
+  AL  all/n=8.3e-11  ||dq||=3.9e-04  ||fl||=1.2e-03  max=1.4e-09
+
+  sign_change (10, 0)  
+  BAD_sign_change (3,4.0e-02, 0)  
+26, it = 27.  align_refactorize = 1(1)
+  AL  all/n=8.2e-11  ||dq||=3.9e-04  ||fl||=1.2e-03  max=1.3e-09
+
+  sign_change (11, 0)  
+  BAD_sign_change (3,3.1e-02, 0)  
+27, it = 28.  align_refactorize = 1(1)
+  AL  all/n=8.3e-11  ||dq||=3.9e-04  ||fl||=1.2e-03  max=1.3e-09
+
+  sign_change (8, 0)  
+  BAD_sign_change (3,2.4e-02, 0)  
+28, it = 29.  align_refactorize = 1(1)
+  AL  all/n=8.6e-11  ||dq||=3.9e-04  ||fl||=1.3e-03  max=1.3e-09
+
+  sign_change (14, 0)  
+  BAD_sign_change (2,2.0e-02, 0)  
+29, it = 30.  align_refactorize = 1(1)
+  AL  all/n=9.0e-11  ||dq||=3.9e-04  ||fl||=1.3e-03  max=1.3e-09
+
+  sign_change (14, 0)  
+  BAD_sign_change (2,1.6e-02, 0)  
+30, it = 31.  align_refactorize = 1(1)
+  AL  all/n=9.5e-11  ||dq||=3.9e-04  ||fl||=1.3e-03  max=1.3e-09
+
+  sign_change (11, 0)  
+  BAD_sign_change (2,1.3e-02, 0)  
+31, it = 32.  align_refactorize = 1(1)
+  AL  all/n=9.8e-11  ||dq||=3.9e-04  ||fl||=1.3e-03  max=1.4e-09
+
+  sign_change (6, 0)  
+  BAD_sign_change (2,1.2e-02, 0)  
+32, it = 33.  align_refactorize = 1(1)
+  AL  all/n=1.0e-10  ||dq||=3.9e-04  ||fl||=1.3e-03  max=1.9e-09
+
+  sign_change (14, 0)  
+  BAD_sign_change (2,1.3e-02, 0)  
+33, it = 34.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=4.0e-04  ||fl||=1.3e-03  max=2.6e-09
+
+  sign_change (16, 0)  
+  BAD_sign_change (3,2.0e-02, 0)  
+34, it = 35.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=4.1e-04  ||fl||=1.3e-03  max=4.0e-09
+
+  sign_change (14, 0)  
+  BAD_sign_change (4,4.1e-02, 0)  
+35, it = 36.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=4.1e-04  ||fl||=1.4e-03  max=3.4e-09
+
+  sign_change (20, 0)  
+  BAD_sign_change (3,2.9e-02, 0)  
+36, it = 37.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=4.1e-04  ||fl||=1.4e-03  max=4.2e-09
+
+  sign_change (16, 0)  
+  BAD_sign_change (4,3.7e-02, 0)  
+37, it = 38.  align_refactorize = 1(1)
+  AL  all/n=9.4e-11  ||dq||=4.1e-04  ||fl||=1.4e-03  max=2.2e-09
+
+  sign_change (17, 0)  
+  BAD_sign_change (2,2.1e-02, 0)  
+38, it = 39.  align_refactorize = 1(1)
+  AL  all/n=9.1e-11  ||dq||=4.1e-04  ||fl||=1.4e-03  max=2.1e-09
+
+  sign_change (20, 0)  
+  BAD_sign_change (3,6.0e-02, 0)  
+39, it = 40.  align_refactorize = 1(1)
+  AL  all/n=8.6e-11  ||dq||=4.1e-04  ||fl||=1.4e-03  max=1.6e-09
+
+  sign_change (18, 0)  
+  BAD_sign_change (5,7.3e-02, 0)  
+40, it = 41.  align_refactorize = 1(1)
+  AL  all/n=7.9e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.4e-09
+
+  sign_change (21, 0)  
+  BAD_sign_change (5,8.7e-02, 0)  
+41, it = 42.  align_refactorize = 1(1)
+  AL  all/n=7.4e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.5e-09
+
+  sign_change (20, 0)  
+  BAD_sign_change (4,1.0e-01, 0)  
+42, it = 43.  align_refactorize = 1(1)
+  AL  all/n=7.1e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.5e-09
+
+  sign_change (24, 0)  
+  BAD_sign_change (3,1.2e-01, 0)  
+43, it = 44.  align_refactorize = 1(1)
+  AL  all/n=7.1e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.6e-09
+
+  sign_change (20, 0)  
+  BAD_sign_change (3,1.3e-01, 0)  
+44, it = 45.  align_refactorize = 1(1)
+  AL  all/n=7.4e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.6e-09
+
+  sign_change (24, 0)  
+  BAD_sign_change (4,1.3e-01, 0)  
+45, it = 46.  align_refactorize = 1(1)
+  AL  all/n=7.9e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.6e-09
+
+  sign_change (23, 0)  
+  BAD_sign_change (4,1.3e-01, 0)  
+46, it = 47.  align_refactorize = 1(1)
+  AL  all/n=8.2e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.6e-09
+
+  sign_change (22, 0)  
+  BAD_sign_change (4,1.2e-01, 0)  
+47, it = 48.  align_refactorize = 1(1)
+  AL  all/n=8.6e-11  ||dq||=4.2e-04  ||fl||=1.5e-03  max=1.6e-09
+
+  sign_change (28, 0)  
+  BAD_sign_change (5,1.1e-01, 0)  
+48, it = 49.  align_refactorize = 1(1)
+  AL  all/n=8.8e-11  ||dq||=4.2e-04  ||fl||=1.5e-03  max=1.6e-09
+
+  sign_change (34, 0)  
+  BAD_sign_change (5,1.1e-01, 0)  
+49, it = 50.  align_refactorize = 1(1)
+  AL  all/n=9.0e-11  ||dq||=4.2e-04  ||fl||=1.5e-03  max=1.7e-09
+
+  sign_change (29, 0)  
+  BAD_sign_change (5,1.0e-01, 0)  
+50, it = 51.  align_refactorize = 1(1)
+  AL  all/n=9.0e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.7e-09
+
+  sign_change (27, 0)  
+  BAD_sign_change (5,1.1e-01, 0)  
+51, it = 52.  align_refactorize = 1(1)
+  AL  all/n=8.8e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.7e-09
+
+  sign_change (32, 0)  
+  BAD_sign_change (5,1.2e-01, 0)  
+52, it = 53.  align_refactorize = 1(1)
+  AL  all/n=8.4e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.7e-09
+
+  sign_change (30, 0)  
+  BAD_sign_change (5,1.3e-01, 0)  
+53, it = 54.  align_refactorize = 1(1)
+  AL  all/n=8.4e-11  ||dq||=4.1e-04  ||fl||=1.5e-03  max=1.7e-09
+
+  sign_change (27, 0)  
+  BAD_sign_change (5,1.4e-01, 0)  
+54, it = 55.  align_refactorize = 1(1)
+  AL  all/n=8.6e-11  ||dq||=4.2e-04  ||fl||=1.5e-03  max=1.7e-09
+
+  sign_change (30, 0)  
+  BAD_sign_change (5,1.4e-01, 0)  
+55, it = 56.  align_refactorize = 1(1)
+  AL  all/n=9.2e-11  ||dq||=4.2e-04  ||fl||=1.5e-03  max=1.7e-09
+
+  sign_change (33, 0)  
+  BAD_sign_change (5,1.4e-01, 0)  
+56, it = 57.  align_refactorize = 1(1)
+  AL  all/n=9.6e-11  ||dq||=4.2e-04  ||fl||=1.5e-03  max=1.9e-09
+
+  sign_change (34, 0)  
+  BAD_sign_change (5,1.3e-01, 0)  
+57, it = 58.  align_refactorize = 1(1)
+  AL  all/n=1.0e-10  ||dq||=4.2e-04  ||fl||=1.5e-03  max=2.1e-09
+
+  sign_change (32, 0)  
+  BAD_sign_change (5,1.3e-01, 0)  
+58, it = 59.  align_refactorize = 1(1)
+  AL  all/n=1.0e-10  ||dq||=4.2e-04  ||fl||=1.5e-03  max=2.2e-09
+
+  sign_change (33, 0)  
+  BAD_sign_change (5,1.3e-01, 0)  
+59, it = 60.  align_refactorize = 1(1)
+  AL  all/n=1.0e-10  ||dq||=4.2e-04  ||fl||=1.5e-03  max=2.3e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (5,1.3e-01, 0)  
+60, it = 61.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=4.2e-04  ||fl||=1.5e-03  max=2.4e-09
+
+  sign_change (31, 0)  
+  BAD_sign_change (5,1.4e-01, 0)  
+61, it = 62.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=4.2e-04  ||fl||=1.5e-03  max=2.5e-09
+
+  sign_change (35, 0)  
+  BAD_sign_change (5,1.4e-01, 0)  
+62, it = 63.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=4.2e-04  ||fl||=1.5e-03  max=3.1e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (6,1.4e-01, 0)  
+63, it = 64.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=4.2e-04  ||fl||=1.5e-03  max=2.5e-09
+
+  sign_change (39, 0)  
+  BAD_sign_change (5,1.4e-01, 0)  
+64, it = 65.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=4.3e-04  ||fl||=1.5e-03  max=3.8e-09
+
+  sign_change (43, 0)  
+  BAD_sign_change (6,1.4e-01, 0)  
+65, it = 66.  align_refactorize = 1(1)
+  AL  all/n=1.0e-10  ||dq||=4.2e-04  ||fl||=1.5e-03  max=2.2e-09
+
+  sign_change (38, 0)  
+  BAD_sign_change (5,1.4e-01, 0)  
+66, it = 67.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=4.3e-04  ||fl||=1.5e-03  max=3.8e-09
+
+  sign_change (42, 0)  
+  BAD_sign_change (8,1.1e-01, 0)  
+67, it = 68.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=3.8e-09
+
+  sign_change (30, 0)  
+  BAD_sign_change (6,2.1e-01, 0)  
+68, it = 69.  align_refactorize = 1(1)
+  AL  all/n=2.3e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=4.5e-09
+
+  sign_change (32, 0)  
+  BAD_sign_change (7,2.0e-01, 0)  
+69, it = 70.  align_refactorize = 1(1)
+  AL  all/n=2.5e-10  ||dq||=3.9e-04  ||fl||=1.2e-03  max=6.3e-09
+
+  sign_change (35, 0)  
+  BAD_sign_change (6,1.6e-01, 0)  
+70, it = 71.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=3.6e-09
+
+  sign_change (30, 0)  
+  BAD_sign_change (5,2.2e-01, 0)  
+71, it = 72.  align_refactorize = 1(1)
+  AL  all/n=2.4e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=5.0e-09
+
+  sign_change (35, 0)  
+  BAD_sign_change (5,2.3e-01, 0)  
+72, it = 73.  align_refactorize = 1(1)
+  AL  all/n=2.3e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=4.2e-09
+
+  sign_change (32, 0)  
+  BAD_sign_change (6,2.4e-01, 0)  
+73, it = 74.  align_refactorize = 1(1)
+  AL  all/n=2.5e-10  ||dq||=3.9e-04  ||fl||=1.2e-03  max=6.0e-09
+
+  sign_change (44, 0)  
+  BAD_sign_change (6,2.4e-01, 0)  
+74, it = 75.  align_refactorize = 1(1)
+  AL  all/n=2.3e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=3.9e-09
+
+  sign_change (34, 0)  
+  BAD_sign_change (5,2.4e-01, 0)  
+75, it = 76.  align_refactorize = 1(1)
+  AL  all/n=2.3e-10  ||dq||=3.9e-04  ||fl||=1.2e-03  max=6.1e-09
+
+  sign_change (40, 0)  
+  BAD_sign_change (7,1.7e-01, 0)  
+76, it = 77.  align_refactorize = 1(1)
+  AL  all/n=2.0e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=3.5e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (5,2.3e-01, 0)  
+77, it = 78.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=3.9e-04  ||fl||=1.2e-03  max=5.0e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (6,2.1e-01, 0)  
+78, it = 79.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=3.9e-04  ||fl||=1.2e-03  max=5.0e-09
+
+  sign_change (39, 0)  
+  BAD_sign_change (5,2.2e-01, 0)  
+79, it = 80.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=3.9e-04  ||fl||=1.2e-03  max=5.6e-09
+
+  sign_change (40, 0)  
+  BAD_sign_change (5,2.0e-01, 0)  
+80, it = 81.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=4.8e-09
+
+  sign_change (37, 0)  
+  BAD_sign_change (6,1.5e-01, 0)  
+81, it = 82.  align_refactorize = 1(1)
+  AL  all/n=2.0e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=4.9e-09
+
+  sign_change (35, 0)  
+  BAD_sign_change (5,2.0e-01, 0)  
+82, it = 83.  align_refactorize = 1(1)
+  AL  all/n=2.0e-10  ||dq||=3.7e-04  ||fl||=1.2e-03  max=4.2e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (5,2.3e-01, 0)  
+83, it = 84.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=5.8e-09
+
+  sign_change (40, 0)  
+  BAD_sign_change (5,2.3e-01, 0)  
+84, it = 85.  align_refactorize = 1(1)
+  AL  all/n=1.9e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=3.2e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (4,2.5e-01, 0)  
+85, it = 86.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=4.8e-09
+
+  sign_change (44, 0)  
+  BAD_sign_change (6,2.0e-01, 0)  
+86, it = 87.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=3.9e-04  ||fl||=1.2e-03  max=6.8e-09
+
+  sign_change (47, 0)  
+  BAD_sign_change (6,1.5e-01, 0)  
+87, it = 88.  align_refactorize = 1(1)
+  AL  all/n=1.8e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=3.9e-09
+
+  sign_change (44, 0)  
+  BAD_sign_change (4,2.3e-01, 0)  
+88, it = 89.  align_refactorize = 1(1)
+  AL  all/n=1.9e-10  ||dq||=3.8e-04  ||fl||=1.2e-03  max=4.5e-09
+
+  sign_change (44, 0)  
+  BAD_sign_change (5,2.0e-01, 0)  
+89, it = 90.  align_refactorize = 1(1)
+  AL  all/n=2.3e-10  ||dq||=4.0e-04  ||fl||=1.2e-03  max=9.5e-09
+
+  sign_change (48, 0)  
+  BAD_sign_change (7,1.7e-01, 0)  
+90, it = 91.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=3.7e-04  ||fl||=1.2e-03  max=2.9e-09
+
+  sign_change (32, 0)  
+  BAD_sign_change (2,2.3e-01, 0)  
+91, it = 92.  align_refactorize = 1(1)
+  AL  all/n=1.9e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.2e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (4,2.3e-01, 0)  
+92, it = 93.  align_refactorize = 1(1)
+  AL  all/n=2.2e-10  ||dq||=3.9e-04  ||fl||=1.1e-03  max=8.3e-09
+
+  sign_change (39, 0)  
+  BAD_sign_change (5,2.3e-01, 0)  
+93, it = 94.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=4.0e-09
+
+  sign_change (31, 0)  
+  BAD_sign_change (3,2.4e-01, 0)  
+94, it = 95.  align_refactorize = 1(1)
+  AL  all/n=2.1e-10  ||dq||=3.9e-04  ||fl||=1.1e-03  max=6.9e-09
+
+  sign_change (39, 0)  
+  BAD_sign_change (6,1.1e-01, 0)  
+95, it = 96.  align_refactorize = 1(1)
+  AL  all/n=1.5e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.1e-09
+
+  sign_change (37, 0)  
+  BAD_sign_change (5,1.8e-01, 0)  
+96, it = 97.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.8e-09
+
+  sign_change (37, 0)  
+  BAD_sign_change (5,2.0e-01, 0)  
+97, it = 98.  align_refactorize = 1(1)
+  AL  all/n=1.5e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.2e-09
+
+  sign_change (31, 0)  
+  BAD_sign_change (3,2.3e-01, 0)  
+98, it = 99.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=4.6e-09
+
+  sign_change (34, 0)  
+  BAD_sign_change (6,2.2e-01, 0)  
+99, it = 100.  align_refactorize = 1(1)
+  AL  all/n=1.7e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.5e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (6,2.2e-01, 0)  
+100, it = 101.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=5.4e-09
+
+  sign_change (34, 0)  
+  BAD_sign_change (3,2.1e-01, 0)  
+101, it = 102.  align_refactorize = 1(1)
+  AL  all/n=1.7e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.3e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (4,1.1e-01, 0)  
+102, it = 103.  align_refactorize = 1(1)
+  AL  all/n=1.4e-10  ||dq||=3.6e-04  ||fl||=1.1e-03  max=3.9e-09
+
+  sign_change (32, 0)  
+  BAD_sign_change (3,1.5e-01, 0)  
+103, it = 104.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=5.3e-09
+
+  sign_change (33, 0)  
+  BAD_sign_change (3,1.8e-01, 0)  
+104, it = 105.  align_refactorize = 1(1)
+  AL  all/n=1.4e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.4e-09
+
+  sign_change (29, 0)  
+  BAD_sign_change (2,2.0e-01, 0)  
+105, it = 106.  align_refactorize = 1(1)
+  AL  all/n=1.7e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.7e-09
+
+  sign_change (33, 0)  
+  BAD_sign_change (4,2.2e-01, 0)  
+106, it = 107.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=2.9e-09
+
+  sign_change (30, 0)  
+  BAD_sign_change (2,2.4e-01, 0)  
+107, it = 108.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=5.4e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (6,2.0e-01, 0)  
+108, it = 109.  align_refactorize = 1(1)
+  AL  all/n=1.7e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.0e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (5,2.0e-01, 0)  
+109, it = 110.  align_refactorize = 1(1)
+  AL  all/n=1.5e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=4.7e-09
+
+  sign_change (34, 0)  
+  BAD_sign_change (4,1.9e-01, 0)  
+110, it = 111.  align_refactorize = 1(1)
+  AL  all/n=1.5e-10  ||dq||=3.9e-04  ||fl||=1.1e-03  max=9.1e-09
+
+  sign_change (39, 0)  
+  BAD_sign_change (8,1.3e-01, 0)  
+111, it = 112.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.8e-09
+
+  sign_change (31, 0)  
+  BAD_sign_change (2,1.9e-01, 0)  
+112, it = 113.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.8e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (3,2.1e-01, 0)  
+113, it = 114.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.3e-09
+
+  sign_change (32, 0)  
+  BAD_sign_change (3,2.3e-01, 0)  
+114, it = 115.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=5.0e-09
+
+  sign_change (38, 0)  
+  BAD_sign_change (6,2.3e-01, 0)  
+115, it = 116.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=4.9e-09
+
+  sign_change (35, 0)  
+  BAD_sign_change (5,2.2e-01, 0)  
+116, it = 117.  align_refactorize = 1(1)
+  AL  all/n=1.5e-10  ||dq||=3.9e-04  ||fl||=1.1e-03  max=7.0e-09
+
+  sign_change (40, 0)  
+  BAD_sign_change (5,1.8e-01, 0)  
+117, it = 118.  align_refactorize = 1(1)
+  AL  all/n=1.5e-10  ||dq||=3.9e-04  ||fl||=1.1e-03  max=9.4e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (6,1.1e-01, 0)  
+118, it = 119.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.6e-04  ||fl||=1.1e-03  max=3.7e-09
+
+  sign_change (38, 0)  
+  BAD_sign_change (4,1.0e-01, 0)  
+119, it = 120.  align_refactorize = 1(1)
+  AL  all/n=1.4e-10  ||dq||=3.6e-04  ||fl||=1.1e-03  max=6.8e-09
+
+  sign_change (39, 0)  
+  BAD_sign_change (6,1.2e-01, 0)  
+120, it = 121.  align_refactorize = 1(1)
+  AL  all/n=1.0e-10  ||dq||=3.6e-04  ||fl||=1.1e-03  max=2.8e-09
+
+  sign_change (35, 0)  
+  BAD_sign_change (2,1.5e-01, 0)  
+121, it = 122.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.6e-04  ||fl||=1.1e-03  max=4.9e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (3,1.8e-01, 0)  
+122, it = 123.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.9e-09
+
+  sign_change (34, 0)  
+  BAD_sign_change (4,2.0e-01, 0)  
+123, it = 124.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=5.0e-09
+
+  sign_change (40, 0)  
+  BAD_sign_change (5,2.2e-01, 0)  
+124, it = 125.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.6e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (5,2.4e-01, 0)  
+125, it = 126.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=4.7e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (7,2.2e-01, 0)  
+126, it = 127.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=5.0e-09
+
+  sign_change (43, 0)  
+  BAD_sign_change (7,2.0e-01, 0)  
+127, it = 128.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=7.9e-09
+
+  sign_change (42, 0)  
+  BAD_sign_change (5,1.3e-01, 0)  
+128, it = 129.  align_refactorize = 1(1)
+  AL  all/n=9.4e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.0e-09
+
+  sign_change (40, 0)  
+  BAD_sign_change (3,1.9e-01, 0)  
+129, it = 130.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=7.7e-09
+
+  sign_change (51, 0)  
+  BAD_sign_change (4,2.1e-01, 0)  
+130, it = 131.  align_refactorize = 1(1)
+  AL  all/n=9.2e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=2.8e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (3,2.3e-01, 0)  
+131, it = 132.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=8.9e-09
+
+  sign_change (51, 0)  
+  BAD_sign_change (6,2.2e-01, 0)  
+132, it = 133.  align_refactorize = 1(1)
+  AL  all/n=9.5e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.6e-09
+
+  sign_change (34, 0)  
+  BAD_sign_change (4,2.3e-01, 0)  
+133, it = 134.  align_refactorize = 1(1)
+  AL  all/n=1.4e-10  ||dq||=3.9e-04  ||fl||=1.1e-03  max=8.4e-09
+
+  sign_change (56, 0)  
+  BAD_sign_change (9,1.1e-01, 0)  
+134, it = 135.  align_refactorize = 1(1)
+  AL  all/n=9.9e-11  ||dq||=3.6e-04  ||fl||=1.1e-03  max=4.9e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (7,1.1e-01, 0)  
+135, it = 136.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=7.8e-09
+
+  sign_change (47, 0)  
+  BAD_sign_change (8,1.3e-01, 0)  
+136, it = 137.  align_refactorize = 1(1)
+  AL  all/n=8.0e-11  ||dq||=3.6e-04  ||fl||=1.1e-03  max=2.5e-09
+
+  sign_change (35, 0)  
+  BAD_sign_change (3,1.5e-01, 0)  
+137, it = 138.  align_refactorize = 1(1)
+  AL  all/n=9.3e-11  ||dq||=3.6e-04  ||fl||=1.1e-03  max=3.7e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (4,1.7e-01, 0)  
+138, it = 139.  align_refactorize = 1(1)
+  AL  all/n=1.0e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.7e-09
+
+  sign_change (44, 0)  
+  BAD_sign_change (5,2.0e-01, 0)  
+139, it = 140.  align_refactorize = 1(1)
+  AL  all/n=9.5e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.5e-09
+
+  sign_change (42, 0)  
+  BAD_sign_change (5,2.2e-01, 0)  
+140, it = 141.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=7.5e-09
+
+  sign_change (52, 0)  
+  BAD_sign_change (6,2.3e-01, 0)  
+141, it = 142.  align_refactorize = 1(1)
+  AL  all/n=8.8e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.1e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (5,2.4e-01, 0)  
+142, it = 143.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.2e-09
+
+  sign_change (52, 0)  
+  BAD_sign_change (7,1.4e-01, 0)  
+143, it = 144.  align_refactorize = 1(1)
+  AL  all/n=9.5e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.4e-09
+
+  sign_change (51, 0)  
+  BAD_sign_change (6,1.3e-01, 0)  
+144, it = 145.  align_refactorize = 1(1)
+  AL  all/n=9.3e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.9e-09
+
+  sign_change (53, 0)  
+  BAD_sign_change (6,1.7e-01, 0)  
+145, it = 146.  align_refactorize = 1(1)
+  AL  all/n=9.2e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.7e-09
+
+  sign_change (47, 0)  
+  BAD_sign_change (5,2.0e-01, 0)  
+146, it = 147.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=8.8e-09
+
+  sign_change (56, 0)  
+  BAD_sign_change (5,2.2e-01, 0)  
+147, it = 148.  align_refactorize = 1(1)
+  AL  all/n=9.4e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.1e-09
+
+  sign_change (38, 0)  
+  BAD_sign_change (4,2.4e-01, 0)  
+148, it = 149.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=5.2e-09
+
+  sign_change (48, 0)  
+  BAD_sign_change (6,2.2e-01, 0)  
+149, it = 150.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=4.7e-09
+
+  sign_change (44, 0)  
+  BAD_sign_change (6,2.2e-01, 0)  
+150, it = 151.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.4e-09
+
+  sign_change (48, 0)  
+  BAD_sign_change (8,1.7e-01, 0)  
+151, it = 152.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.3e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (6,1.3e-01, 0)  
+152, it = 153.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=5.7e-09
+
+  sign_change (42, 0)  
+  BAD_sign_change (5,1.6e-01, 0)  
+153, it = 154.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.6e-04  ||fl||=1.1e-03  max=4.0e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (5,1.9e-01, 0)  
+154, it = 155.  align_refactorize = 1(1)
+  AL  all/n=1.4e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=8.3e-09
+
+  sign_change (53, 0)  
+  BAD_sign_change (6,2.1e-01, 0)  
+155, it = 156.  align_refactorize = 1(1)
+  AL  all/n=9.7e-11  ||dq||=3.7e-04  ||fl||=1.1e-03  max=2.6e-09
+
+  sign_change (35, 0)  
+  BAD_sign_change (4,2.4e-01, 0)  
+156, it = 157.  align_refactorize = 1(1)
+  AL  all/n=1.4e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.8e-09
+
+  sign_change (54, 0)  
+  BAD_sign_change (7,2.3e-01, 0)  
+157, it = 158.  align_refactorize = 1(1)
+  AL  all/n=1.1e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.4e-09
+
+  sign_change (39, 0)  
+  BAD_sign_change (5,2.4e-01, 0)  
+158, it = 159.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=7.4e-09
+
+  sign_change (48, 0)  
+  BAD_sign_change (7,1.2e-01, 0)  
+159, it = 160.  align_refactorize = 1(1)
+  AL  all/n=1.0e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=4.5e-09
+
+  sign_change (40, 0)  
+  BAD_sign_change (5,1.8e-01, 0)  
+160, it = 161.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=5.1e-09
+
+  sign_change (39, 0)  
+  BAD_sign_change (7,2.0e-01, 0)  
+161, it = 162.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=5.0e-09
+
+  sign_change (43, 0)  
+  BAD_sign_change (5,2.2e-01, 0)  
+162, it = 163.  align_refactorize = 1(1)
+  AL  all/n=1.2e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.6e-09
+
+  sign_change (42, 0)  
+  BAD_sign_change (6,2.3e-01, 0)  
+163, it = 164.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=4.5e-09
+
+  sign_change (46, 0)  
+  BAD_sign_change (7,2.2e-01, 0)  
+164, it = 165.  align_refactorize = 1(1)
+  AL  all/n=1.5e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=6.5e-09
+
+  sign_change (44, 0)  
+  BAD_sign_change (7,1.7e-01, 0)  
+165, it = 166.  align_refactorize = 1(1)
+  AL  all/n=1.3e-10  ||dq||=3.7e-04  ||fl||=1.1e-03  max=3.7e-09
+
+  sign_change (36, 0)  
+  BAD_sign_change (5,1.9e-01, 0)  
+166, it = 167.  align_refactorize = 1(1)
+  AL  all/n=1.6e-10  ||dq||=3.8e-04  ||fl||=1.1e-03  max=7.6e-09
+
+  sign_change (41, 0)  
+  BAD_sign_change (6,2.1e-01, 0)  

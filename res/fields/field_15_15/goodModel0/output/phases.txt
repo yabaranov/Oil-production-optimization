@@ -1,0 +1,9 @@
+avg_m_mix	avg_m_XXX_mix.txt
+m_mix	m_XXX_mix.txt
+avg_m_s1	avg_m_XXX_s1.txt
+s1	XXX_s1.txt
+avg_m_per_s1	avg_m_per_XXX_s1.txt
+avg_m_s2	avg_m_XXX_s2.txt
+s2	XXX_s2.txt
+avg_m_per_s2	avg_m_per_XXX_s2.txt
+P	XXX_P.txt

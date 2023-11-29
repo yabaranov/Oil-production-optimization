@@ -1,0 +1,9 @@
+1e-8	1e-4	1e-8 
+10 10  10 
+1e-0   1e-7    1e-0    1e-5 
+30 
+
+//alpha0	beta0	gamma0 
+//step_alpha	step_beta	step_gamma 
+//eps_alpha	eps_beta	eps_gamma	eps_Functional 
+//максимальное допустимое количество итераций

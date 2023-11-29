@@ -1,0 +1,1191 @@
+nfaces= 37056
+kolel 9216 koluz 18818
+WARNING: Temparature calculation was turned off
+ERROR: WellsControl::ReadWellsLength: Can't open file mesh/wells_length.txt
+WARNING: WellsControl::ReadWellsConsRestrictions: Can't open file properties/wellsCONSMinMax.txt
+WARNING: WellsControl::ReadWellsConsWD: Can't open file properties/wellsCONSWD.txt
+WARNING: Can't open file mesh/bc1faces_times.txt
+WARNING: Can't open file mesh/bc1faces_values.dat
+WARNING: Can't open file mesh/bc3faces.txt
+WARNING:Can't open file properties/PolymersWithDynamicViscosity.txt
+WARNING: FiltrProperties::ReadSectionInfo Can't open file mesh/Section.txt
+WARNING: FiltrationClass::Read_Volume_percent: Can't open file properties\Volume_percent.txt
+info : could not open file tables\SynthesysWantedDebitOilSum.txt
+info : could not open file tables\SynthesysWantedPressureInjection.txt
+info : could not open file tables\SynthesysWantedPressureProduction.txt
+WARNING : turn off perforation zone Well1_1 (of 1)
+WARNING : turn off perforation zone Well2_1 (of 1)
+WARNING : turn off perforation zone Well3_1 (of 1)
+WARNING : turn off perforation zone Well4_1 (of 1)
+WARNING: Can't open file filtr_ctrl.cfg
+ncFaces= 37056
+Can't open file RESULTS
+------------------------------
+iT = 0 time = 0.000000000000000e+00
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+> factorize
+> solve
+mesh->nc= 18818
+mesh->tc= 0
+kolvar(SLAE size)= 18818
+kolvarall= 18818
+start build portrait 
+ end standart portrait 
+ end BuildPortrait 
+ return ok 
+Non zero values(L)= 157633 non zero values(ALL)= 334084
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+Alignment SLAE size = 37056
+Alignment non zero values(L) = 138240 non zero values(ALL)= 313536
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9210|       2|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 1 time = 3.00000e+01
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9210|       2|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 2 time = 6.00000e+01
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9208|       4|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 3 time = 9.00000e+01
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9208|       4|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 4 time = 1.20000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9208|       4|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 5 time = 1.50000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9208|       4|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110694183864916e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110672753766485e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 6 time = 1.80000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9208|       4|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.110660396690437e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110639560170695e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110627545355335e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110538198172968e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 7 time = 2.10000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9208|       4|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.110486683548194e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110404304073740e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110356806329341e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.110112437626487e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 8 time = 2.40000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9207|       5|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.109971573746623e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.109749069603652e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.109620805360944e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.109059410637305e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 9 time = 2.70000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9207|       5|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.108735946134169e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.108224556665177e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.107929883428125e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.106778732558130e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 10 time = 3.00000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       6|       4|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.106116019669774e+02 alpha = 1.000000000000000e+00 deltaV = 3.749999999999999e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.105069360989842e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.104466715660897e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.102405421278992e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 11 time = 3.30000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       5|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.101220290282779e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.099365502642275e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.098298795357954e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.095380950300952e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 12 time = 3.60000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       5|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.093705440947096e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.091133905179690e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.089656544305356e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.085543294993935e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 13 time = 3.90000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9207|       4|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.083185516448682e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.079545161329834e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.077457088440049e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.071756907772768e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 14 time = 4.20000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9207|       4|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.068497288869182e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.063496628811114e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.060634268326680e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.053083121898756e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 15 time = 4.50000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9207|       4|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.048777505187953e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.042247491599845e+02 alpha = 1.000000000000000e+00 deltaV = 3.749999999999999e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.038518856592173e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.028695910378708e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 16 time = 4.80000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       5|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 1.023115619220851e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.014689705526005e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.009893776443950e+02 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.978258110713568e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 17 time = 5.10000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9205|       6|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 9.909971504336639e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.806352460552405e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.747580689445360e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.604984509451528e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 18 time = 5.40000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9205|       6|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 9.524638498649054e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.427110527974432e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.371774588736615e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.232011137987128e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 19 time = 5.70000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  4.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00046
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9205|       6|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 9.153296756315375e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.080499469823116e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 9.039045608383884e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 8.906830810112264e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 20 time = 6.00000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 | p |  2 | -5.00e+01 | 
+  Well2 | p |  2 |  5.00e+01 | 
+  Well3 | p |  2 |  6.00e+01 | 
+  Well4 | p |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9205|       6|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 8.803406356154932e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 8.692002741833110e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 8.629035372944146e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 8.445646949171619e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 21 time = 6.30000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       5|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 8.343398339323120e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 8.234086217486299e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 8.172344772266669e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 8.130752568794298e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 22 time = 6.60000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9205|       6|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 8.106960725924681e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 7.835602970161415e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 7.687228652784400e+01 alpha = 1.000000000000000e+00 deltaV = 3.749999999999999e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 7.598175596406747e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 23 time = 6.90000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       5|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 7.547755736778019e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 7.299010255223106e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 7.162887645195160e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 7.076328276653369e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 24 time = 7.20000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       5|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 7.027359094375997e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 6.775339221938759e+01 alpha = 1.000000000000000e+00 deltaV = 3.749999999999999e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 6.639708083570552e+01 alpha = 1.000000000000000e+00 deltaV = 3.749999999999999e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 6.545786890013611e+01 alpha = 1.000000000000000e+00 deltaV = 3.749999999999999e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 25 time = 7.50000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       5|       5|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 6.492826257439967e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 6.235174603753341e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 6.095689837607351e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 5.996247562556187e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 26 time = 7.80000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       4|       6|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 5.940366303639591e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 5.692270102991456e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 5.558406666359704e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 5.461662532526000e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 27 time = 8.10000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       4|       6|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 5.407391646260977e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 5.172503017678720e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 5.046106433332799e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 4.956928930624981e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 28 time = 8.40000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       4|       6|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 4.906923980923627e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 4.537011735994464e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 4.332434787231389e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 4.193003071224506e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 29 time = 8.70000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       4|       6|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 4.116606536069619e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 3.790933752597713e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 3.625539828137897e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 3.515822483933515e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 30 time = 9.00000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       4|       6|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 3.455521967791682e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 3.199070491947113e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 3.067783697434087e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 2.981829291649673e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 31 time = 9.30000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       4|       6|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 2.934419250184318e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 2.729857043087709e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 2.624362072468268e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 2.555569904933203e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 32 time = 9.60000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       4|       6|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 2.517516602796767e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 2.354759247479069e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 2.269480987353262e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 2.210879820194406e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done
+------------------------------
+iT = 33 time = 9.90000e+02
+------------------------------
+  Well  |   |Type|   Hole 1  |
+  Well1 |   |  2 | -5.00e+01 | 
+  Well2 |   |  2 |  5.00e+01 | 
+  Well3 |   |  2 |  6.00e+01 | 
+  Well4 |   |  2 |  5.00e+01 | 
+ el = 1159 consump = -0.00058
+ el = 1166 consump = 0.00058
+ el = 1073 consump = 0.00069
+ el = 1257 consump = 0.00058
+CalcP	> factorize	> solve
+CalcFluxMixture 
+AlignmentFlux
+CALC FILTRATION
+Start Grouping
+CHECK DT AFTER GROUPING
+Group |       0|       1|       2|
+Time  |3.00e+01|1.50e+01|7.50e+00|
+el-s  |    9206|       4|       6|
+Kol abandon ph = 0
+Finish Grouping
+ ph = 0 k/eta = 2.178443558588503e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000000e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 2.042958038223078e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.972227282432330e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+ ph = 0 k/eta = 1.927059691644219e+01 alpha = 1.000000000000000e+00 deltaV = 3.750000000000001e+02
+ ph = 1 k/eta = 0.000000000000000e+00 alpha = 0.000000000000000e+00 deltaV = 0.000000000000000e+00
+Finish Filtration
+Results...Done
+Fields...Done

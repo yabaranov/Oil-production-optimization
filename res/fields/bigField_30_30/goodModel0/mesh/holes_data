@@ -1,0 +1,28 @@
+0
+
+
+
+
+
+
+
+N - кол-во дырок
+для каждой дырки:
+center1_x	center1_y	center1_z        - точка 1 в XYZ
+center2_x	center2_y	center2_z        - точка 2 в XYZ
+phi0_x		phi0_y 		phi0_z           - точка, в которой phi = 0, в XYZ
+center1_x	center1_y	center1_z        - точка 1 в ksi eta zeta
+center2_x	center2_y	center2_z        - точка 2 в ksi eta zeta
+phi0_x		phi0_y 		phi0_z           - точка, в которой phi = 0, в ksi eta zeta
+local_dir	local_min	local_max        - направление (0 - x, 1 - y, 2 - z), начало и конец по направлению в шаблоне
+MI 		MF		D                - материал дырки, материал вставки, толщина вставки
+dksi		deta                             - расстояния в XYZ до предыдущих целочисленных ksi и eta
+r(phi) size                                      - кол-во точек r(phi) - профиль дырки
+r[1]	phi[1]
+...
+r[n]	phi[n]
+
+rr(z) size                                       - кол-во точек rr(phi) - масштабирование вдоль z
+rr[1]	z[1]
+...
+rr[n]	z[n]

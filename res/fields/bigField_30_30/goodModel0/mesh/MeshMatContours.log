@@ -1,0 +1,44 @@
+Saturation procedure will be lunched
+Material procedure will be lunched
+Full procedure will be lunched
+Warning : Could not read file '../MeshMatContoursDiscrete'
+Nx = 10, Ny = 10
+Starting saturation/composition procedure
+Reading data
+Reading mesh
+Gathering zeta sections
+Creating shapes
+Building discretization
+Setting layer numbers
+Cutting mesh
+Saturation fix by OWC
+Error : Could not read file 'OWCSmoothSettings'
+Calculating saturations and compositions
+Writing volume statistics
+Writing saturation statistics
+Writing compositions statistics
+Writing data
+
+
+Starting material procedure
+Reading data
+Reading mesh
+Reading temperature by layers
+Gathering zeta sections
+Creating shapes
+Building discretization
+Setting layer numbers
+Setting initial temperature
+Cutting mesh
+Calculating materials
+Additional stacks k procedure
+Cutting mesh with k stacks
+Calculating k for elements
+Gathering uniquie materials
+
+Writing Temperature_0.dat
+Writing volume statistics
+Writing material statistics
+Writing data
+All done
+
