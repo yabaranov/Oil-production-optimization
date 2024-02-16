@@ -1,0 +1,9 @@
+{
+	"alphas": [0.01, 1],
+	"stepDerivative": 15,
+	"maxStep": 15,
+	"minValueFunctional": 1e-15,
+	"maxIterations": 100,
+	"maxIterationsFunctionalNotReduced": 3,
+	"desiredVolumeOilProduced": 20000
+}

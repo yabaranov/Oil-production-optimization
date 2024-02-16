@@ -1,0 +1,34 @@
+{
+	"wellsParameters":
+	[
+		{
+			"type": "Production",
+			"movementState": "Enable",
+			"coordinates" : [-400, 5],
+			"allowedValuesX":   [-500, -275],
+			"allowedValuesY":   [0, 200]
+		},
+		{
+			"type": "Injection",
+			"movementState": "Enable",
+			"coordinates" : [-100, 100],
+			"allowedValuesX":   [-350, 100],
+			"allowedValuesY":   [50, 200]
+		},
+		{
+			"type": "Injection",
+			"movementState": "Enable",
+			"coordinates" : [-200, 0],
+			"allowedValuesX":   [-350, -150],
+			"allowedValuesY":   [-200, 50]
+		},
+		{
+			"type": "Injection",
+			"movementState": "Enable",
+			"coordinates" : [-200, 250],
+			"allowedValuesX":   [-500, -150],
+			"allowedValuesY":   [100, 300]
+		}	
+	]
+	
+}

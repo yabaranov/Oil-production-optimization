@@ -1,39 +1,40 @@
-# Общие сведения
+# Oil-production-optimization
 
-Oil-production-optimization - бакалаврская работа в области оптимизации добычи нефти с целью её максимизации.
+Бакалаврская работа в области оптимизации добычи нефти с целью её максимизации. <br>
+В проекте реализован алгоритм оптимизации положения добывающих и нагнетательных скважин. 
 
-Используемые технологии:
+## Технологии:
 1. STL
-2. Matplotlib (библиотека Python для простой и удобной визуализации результатов)
-3. LaTeX
+2. Eigen
+3. CMake
+4. Matplotlib (библиотека Python для визуализации данных)
+5. RapidJSON
 
-В проекте реализован алгоритм оптимизации положения скважин (как добывающих нефть, так и нагнетающих воду). 
-Текст бакалаврской работы, где подробно описана разработанная программа, находится в папке diploma.
+## Описание модулей проекта
+Текст бакалаврской работы находится в папке diploma.<br>
 Изменение параметров программы происходит в res/input. 
-Визуализировать результаты можно с помощью программ в src/visualization.
 
-## Алгоритм динамического изменения области допустимых значений параметров
+### Алгоритм динамического изменения областей скважин
 
-Оптимизируемые параметры в данной работе - центры скважин. 
 Для каждой скважины задана прямоугольная область, где она может перемещаться в процессе оптимизации. 
 
 Разработанный алгоритм корректирует области скважин так, чтобы они не пересекались:
 
-![Image alt](https://github.com/yabaranov/FEM-tetrahedrons/raw/master/res/graph/ver_pic_3.png)
-Области скважин до работы алгоритма
+![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/geometry before.png)
 
-![Image alt](https://github.com/yabaranov/FEM-tetrahedrons/raw/master/res/graph/ver_pic_4.png)
-Области скважин после работы алгоритма
 
-## Решение оптимизационной задачи
+![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/geometry after.png)
 
-Решение - получение оптимального положения скважин, при котором добыча нефти максимальна. 
-Полученное решение даёт прибавку вплоть до 20% по сравнению со стандартными схемами расположения скважин. 
+
+### Решение
+
+Итоговый результат - получение положения скважин, при котором добыча нефти максимальна. <br>
+Оптимизация даёт прибавку до 20% по сравнению со стандартными схемами скважин. 
 
 Можно отследить движение скважин в процессе оптимизации:
 
-![Image alt](https://github.com/yabaranov/FEM-tetrahedrons/raw/master/res/graph/Visualize.png)
+![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/well movement.png)
 
-Или посмотреть эффект оптимизации в отдельной скважине: 
+Или оценить эффект оптимизации в отдельной скважине: 
 
-![Image alt](https://github.com/yabaranov/FEM-tetrahedrons/raw/master/res/graph/res_pic_Sq_5_2.png)
+![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/production by day.png)

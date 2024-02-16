@@ -1,0 +1,18 @@
+{
+	"nameField" : "field_15_15",
+	"simulationTime" : 1830,
+	"wellModes" : 
+	[
+		[{"duration": 5000, "wellCapacity": -50,  "polymerState": "Enable"}],
+		[
+			{"duration": 600, "wellCapacity": 50,  "polymerState": "Enable"},
+			{"duration": 5000, "wellCapacity": 50,  "polymerState": "Disable"}
+		],
+		[
+			{"duration": 2000, "wellCapacity": 50,  "polymerState": "Disable"},
+			{"duration": 5000, "wellCapacity": 50,  "polymerState": "Disable"}
+		],
+		[{"duration": 5000, "wellCapacity":  50,  "polymerState": "Disable"}]
+			
+	]	
+}
