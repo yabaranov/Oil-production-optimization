@@ -20,10 +20,10 @@
 
 Разработанный алгоритм корректирует области скважин так, чтобы они не пересекались:
 
-![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/geometry before.png)
+![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/geometryBefore.png)
 
 
-![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/geometry after.png)
+![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/geometryAfter.png)
 
 
 ### Решение
@@ -33,8 +33,8 @@
 
 Можно отследить движение скважин в процессе оптимизации:
 
-![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/well movement.png)
+![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/wellMovement.png)
 
 Или оценить эффект оптимизации в отдельной скважине: 
 
-![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/production by day.png)
+![Image alt](https://github.com/yabaranov/Oil-production-optimization/raw/master/res/graph/productionByDay.png)
